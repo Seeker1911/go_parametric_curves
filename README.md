@@ -1,0 +1,1 @@
+run `go build parametric.go > outfile.gif` to create a simple wave gif.
